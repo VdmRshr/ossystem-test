@@ -1,0 +1,37 @@
+{"products":[
+  {
+    "id": 1,
+    "title": "Logitech M510 Wireless Computer Mouse",
+    "image": "https://m.media-amazon.com/images/I/71zdnBGqJFL._AC_UY218_.jpg",
+    "description": "Comfortable Shape with USB Unifying Receiver, with Back/Forward Buttons and Side-to-Side Scrolling, Dark Gray",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "title": "1080P Webcam with Microphone",
+    "image": "https://m.media-amazon.com/images/I/71zEiQWAUoL._AC_UY218_.jpg",
+    "description": "Wansview USB 2.0 Desktop Laptop Computer Web Camera with Auto Light Correction, Plug and Play, for Windows Mac OS, for Video Streaming, Conference, Gaming, Online",
+    "price": 39.99
+  },
+  {
+    "id": 3,
+    "title": "Logitech MK550 Wireless Wave Keyboard and Mouse Combo",
+    "image": "https://m.media-amazon.com/images/I/61yUfghm45L._AC_UY218_.jpg",
+    "description": "Includes Keyboard and Mouse, Long Battery Life, Ergonomic Wave Design - Black",
+    "price": 49.95
+  },
+  {
+    "id": 4,
+    "title": "Logitech M570 Wireless Trackball Mouse",
+    "image": "https://m.media-amazon.com/images/I/61QrqZ8uurL._AC_UY218_.jpg",
+    "description": "Ergonomic Design with Sculpted Right-Hand Shape, Compatible with Apple Mac and Microsoft Windows Computers, USB Unifying Receiver, Dark Gray",
+    "price": 24.95
+  },
+  {
+    "id": 5,
+    "title": "2020 1080p Webcam with Microphone",
+    "image": "https://m.media-amazon.com/images/I/71QKx2noKpL._AC_UY218_.jpg",
+    "description": "Privacy Cover, AutoFocus, Noise Reduction, HD USB Web Camera, for Zoom Meeting YouTube Skype FaceTime Hangouts, PC Mac Laptop Desktop",
+    "price": 59.00
+  }
+]}
